@@ -1,0 +1,38 @@
+App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+form {
+    margin: 20px 0;
+}
+
+input {
+    padding: 8px;
+    font-size: 16px;
+}
+
+button {
+    padding: 8px;
+    margin-left: 10px;
+    font-size: 16px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 8px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #f9f9f9;
+    border-bottom: 1px solid #ddd;
+}
+
+li button {
+    background-color: red;
+    color: white;
+    border: none;
+}
